@@ -33,15 +33,15 @@ global.nomer = 'https://wa.me/6285730794089' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERBULAN Rp 4.000\nMAKSIMAL 2 GRUP\n》2 BULAN 7.000\nMAKSIMAL 3 GRUP \n》3 BULAN Rp 10.000\nMAKSIMAL 2 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ini juga ganti
-global.fotonya3 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ini juga ganti
-global.fotonya4 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ini juga ganti
-global.fotonya5 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ini juga ganti
-global.fotonya6 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ini ganti pakai foto sosialmedia mu
-global.fotonya7 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg'
-global.fotonya8 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //foto session
-global.donasi = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ganti pakai poto payment atau apa
+global.fotonya1 = 'https://telegra.ph/file/cedb7a9db9184370c2ad8.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/cedb7a9db9184370c2ad8.jpg' //ini juga ganti
+global.fotonya3 = 'https://telegra.ph/file/cedb7a9db9184370c2ad8.jpg' //ini juga ganti
+global.fotonya4 = 'https://telegra.ph/file/cedb7a9db9184370c2ad8.jpg' //ini juga ganti
+global.fotonya5 = 'https://telegra.ph/file/cedb7a9db9184370c2ad8.jpg' //ini juga ganti
+global.fotonya6 = 'https://telegra.ph/file/cedb7a9db9184370c2ad8.jpg' //ini ganti pakai foto sosialmedia mu
+global.fotonya7 = 'https://telegra.ph/file/cedb7a9db9184370c2ad8.jpg'
+global.fotonya8 = 'https://telegra.ph/file/c15ce26153fd9bcd13ae4.jpg' //foto session
+global.donasi = 'https://telegra.ph/file/c15ce26153fd9bcd13ae4.jpg' //ganti pakai poto payment atau apa
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '❋ཻུ۪۪⸙Gilzz-MD⳹ ❋ཻུ۪۪'
