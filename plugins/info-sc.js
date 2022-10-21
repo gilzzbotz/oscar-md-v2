@@ -23,7 +23,7 @@ let krizyn = `
                 {
                urlButton: {
                displayText: '🌍 Youtube 🌍',
-               url: 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
+               url: 'https://yandex.com'
              }
 
            },
