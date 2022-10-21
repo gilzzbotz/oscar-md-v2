@@ -7,7 +7,7 @@ FN: ᴹᴿ᭄ GilzzOffcོ_1ঔৣ꧂
 item.ORG: ᴹᴿ᭄ GilzzOffcོ_1ঔৣ꧂
 item1.TEL;waid=628730794089@s.whatsapp.net
 item1.X-ABLabel:owner selalu ada 
-item2.YOUTUBE;type=INTERNET: https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ
+item2.YOUTUBE;type=INTERNET: https://youtube.com/channel/UCPH9AdS6UQImcRv6IFtQ5lg
 item2.X-ABLabel:YOUTUBE
 item3.ADR:;;🎍AMERIKA SERIKAT;;;;
 item3.X-ABADR:ac
@@ -24,7 +24,7 @@ const sentMsg  = await conn.sendMessage(
         }
     }
 )
-let jarot = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg'
+let jarot = 'https://telegra.ph/file/67467563f61584802f19c.jpg'
 await conn.send3ButtonImg(m.chat, jarot, `*Hai kak @${m.sender.split('@')[0]} 👋,  Itu nomor owner gw…*`, '📮: jngn di spam kack', 'Store', '.store', 'Back', '.menu', 'Donasi', '.donasi', sentMsg)}
 handler.help = ['owner2', 'creator2']
 handler.tags = ['info']
