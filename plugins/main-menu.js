@@ -43,7 +43,7 @@ const defaultMenu = {
   header: '╭─❑ 〔 %category 〕 ❑─\n┃',
   body: '┃❑ %cmd %islimit %isPremium',
   footer: '┃\n╰────────❑\n', 
-  footerText: 'Powered by Jarot',
+  footerText: 'Powered by Gilzz',
   after: `
 ╭──〔  THANKS TO  〕─⬣
 ⫹⫺ Allah SWT
@@ -305,9 +305,9 @@ let menuu = `
 const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fromObject({
         listMessage: {
             "title": `*${ucapan()}, ${name}*`.trim(),
-                        "description": `©️ *Oscarbotz-MD*`.trim(),
+                        "description": `©️ *Gilzzbotz-MD*`.trim(),
                         "footerText": "Jika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada owner.",
-                        "buttonText": "Click Here",
+                        "buttonText": "Pencet Bang🗿",
             listType: 1,
            FooterText:'',
             mtype: 'listMessage',
@@ -534,7 +534,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
              {
              urlButton: {
                displayText: '🎮GROUP BOT🎮', 
-               url: 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
+               url: 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy'
              }
 
            },
