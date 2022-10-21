@@ -6,8 +6,8 @@
 
 //=============『 Utama 』================== //
 global.owner = ['6285730794089'] 
-global.mods = [] 
-global.prems = [] 
+global.mods = [''] 
+global.prems = [''] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Gilz aza'
